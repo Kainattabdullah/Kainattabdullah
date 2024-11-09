@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kainat Abdullah</h1>
+<h1 align="center">Hi, I'm Kainat Abdullah</h1>
 <h3 align="center">This repository showcases a diverse set of Machine learning, Neural Networks, and data science projects developed by Kainat Abdullah. These projects leverage advanced techniques in deep learning, digital image processing, and predictive modeling.</h3>
 
 - I’m currently working on **Machine Learning, Data Science, Computer Vision, Neural Network**
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kainat-abdullah-b29b521ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kainat-abdullah-b29b521ba/" height="30" width="40" /></a>
 <a href="https://instagram.com/_1kainat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_1kainat" height="30" width="40" /></a>
 </p>
 
