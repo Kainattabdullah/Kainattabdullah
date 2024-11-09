@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kainat Abdullah</h1>
-<h3 align="center">This repository showcases a diverse set of Machine learning, Neural Networks, and data science projects developed by Kainat Abdullah. These projects leverage advanced techniques in deep learning, digital image processing, and predictive modeling.</h3>
+<h3 align="center">My repository showcases a diverse set of Machine learning, Neural Networks, and data science projects developed by Kainat Abdullah. These projects leverage advanced techniques in deep learning, digital image processing, and predictive modeling.</h3>
 
 - I’m currently working on **Machine Learning, Data Science, Computer Vision, Neural Network**
 
