@@ -3,8 +3,7 @@
 
 - I’m currently working on **Machine Learning, Data Science, Computer Vision, Neural Network**
 
-- 📫 How to reach me **kainattabdullahhh@gmail.com**
-                      **kainatabdullah@ntu.edu.pk**
+- 📫 How to reach me 1. **kainattabdullahhh@gmail.com** 2.**kainatabdullah@ntu.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
